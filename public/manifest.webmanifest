@@ -1,0 +1,16 @@
+{
+  "name": "FiberMorrow",
+  "short_name": "FiberMorrow",
+  "description": "AI purchasing intelligence software that forecasts textile requirements based on production orders, material consumption and supplier delivery histories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e8",
+  "theme_color": "#f4f0e8",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
