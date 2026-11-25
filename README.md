@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for FiberMorrow.
 - Industry: Textile Manufacturing, Procurement, Supply Chain Management
 - Founder: Chiamaka Nwankwo (Founder & CEO)
 - Co-founder: Moshood Aina (Co-founder & CTO)
-- Contact: chiamaka@fibermorrow.top
+- Contact: chiamaka@fibermorrow.site
 - Business model: Production facility subscriptions
 
 ## Stack

@@ -3,8 +3,8 @@ import type { Business } from './types'
 export const business: Business = {
   slug: 'fibermorrow',
   name: 'FiberMorrow',
-  domain: 'fibermorrow.top',
-  email: 'chiamaka@fibermorrow.top',
+  domain: 'fibermorrow.site',
+  email: 'chiamaka@fibermorrow.site',
   tagline: 'Predict textile purchasing requirements.',
   industries: ['Textile Manufacturing', 'Procurement', 'Supply Chain Management'],
   description:

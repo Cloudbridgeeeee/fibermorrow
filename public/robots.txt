@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://fibermorrow.top/sitemap.xml
+Sitemap: https://fibermorrow.site/sitemap.xml
